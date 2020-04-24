@@ -1,0 +1,2 @@
+# silver-octo-lamp-MATLAB
+Produce a Matlab Script for the following:  \frac{\mathrm{d}y }{\mathrm{d} t} =tsin(y)  Use the symbolic math package and dsolve() to find the solution to the ODE. and print the solution.  Create a figure called Symbolic Solutions.  Choose 3 differential initial conditions for which solutions exist and plot the 3 different symbolic solutions to the IVP on the same figure.  Color the solutions so they are each different and create a legend which indicated the value of the initial condition.
